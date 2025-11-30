@@ -47,4 +47,3 @@ Git, GitHub Actions, GitLab CI, CI/CD, JWT, Socket.io, Cypress, Jest, Figma, Can
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=0xrezX&icon=0&color=0)](https://visitcount.itsvg.in)
