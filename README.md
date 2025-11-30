@@ -41,9 +41,7 @@ Git, GitHub Actions, GitLab CI, CI/CD, JWT, Socket.io, Cypress, Jest, Figma, Can
 </details>
 
 ## GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=0xrezX&theme=dark&hide_border=false)
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=0xrezX&theme=dark&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xrezX&theme=dark&hide_border=false&layout=compact)
 
 ---
 
